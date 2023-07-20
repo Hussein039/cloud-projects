@@ -9,6 +9,7 @@ import Project3 from './projects/projects3';
 import Project4 from './projects/projects4';
 import Project5 from './projects/projects5';
 import ProjectsSection from './projectsSection';
+import Footer from './navigation/footer';
 
 function App() {
   return (
@@ -24,6 +25,7 @@ function App() {
           {/* Add more project routes as needed */}
         </Routes>
         </div>
+        <Footer />
       </div>
     </Router>
   );

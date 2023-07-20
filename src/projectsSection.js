@@ -1,13 +1,14 @@
 import React from 'react';
 import { HashLink as Link } from 'react-router-hash-link'; 
 import './projectsSection.css';
+import img1 from './projects/project1 images/1.PNG'
 
 const ProjectsSection = () => {
   return (
     <div>
       <div className="projects">
         <Link to="/project1" className="proj proj1">
-          <img src="your_image_url.jpg" alt="Project 1" />
+          <img src={img1} alt="Project 1" />
           <div className="proj-text">
             <h3>Project 1</h3>
             <p>Project description goes here...</p>
