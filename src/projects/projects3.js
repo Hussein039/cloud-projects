@@ -23,36 +23,36 @@ const Project3 = () => {
             <h1>Introduction</h1>
             <p>These are easy steps demonstrating how to build your VPC and Launch a Web Server.</p>
 
-            <h2>Step -4</h2>
+            <h2>Step -1</h2>
             <p></p>
             <img src={img1} alt="Img1" height={400} width={800}></img>
 
-            <h2>Step -5</h2>
+            <h2>Step -2</h2>
             <p></p>
 
-            <h2>Step -6</h2>
+            <h2>Step -3</h2>
             <p></p>
             <img src={img3} alt="img3" height={400} width={800}></img>
-            <h2>Step -7</h2>
+            <h2>Step -4</h2>
             <p></p>
             <img src={img4} alt="img4" height={400} width={800}></img>
-            <h2>Step -8</h2>
+            <h2>Step -5</h2>
             <p></p>
             <img src={img5}alt="img5" height={400} width={800}></img>
 
-            <h2>Step -9</h2>
+            <h2>Step -6</h2>
             <p></p>
             <img src={img6}alt="img6" height={400} width={800}></img>
 
-            <h2>Step -10</h2>
+            <h2>Step -7</h2>
             <p></p>
             <img src={img7}alt="img7" height={400} width={800}></img>
 
-            <h2>Step -11</h2>
+            <h2>Step -8</h2>
             <p></p>
             <img src={img8}alt="img8" height={400} width={800}></img>
 
-            <h2>Step -12</h2>
+            <h2>Step -9</h2>
             <p></p>
             <p></p>
             <img src={img9} alt="img9" height={400} width={800}></img>

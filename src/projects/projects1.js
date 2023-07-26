@@ -19,7 +19,7 @@ const Project1 = () => {
     
     return (
         <div className="project1">
-            <h1>Introduction</h1>
+            <h1>Start And Connect To an EC2 Server</h1>
             <p>These are easy steps demonstrating how to start an EC2 server.</p>
 
             <h2>Step -1</h2>
